@@ -33,4 +33,6 @@ The frontend should display these users in a **grid view with avatars**, include
 * **Database:** MySQL
 
 Due to time constraints the full implementation was not completed, but the repository demonstrates the intended architecture and core integration between frontend, backend, and database.
+
+Plase review the complete repo, reach out if need need any help @ronalt64threepillarg
 ```
